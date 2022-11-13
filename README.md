@@ -83,9 +83,9 @@ configure you domain in firebase by following this [doc](https://firebase.google
 
 
 # fun fact 
- if you go to public/images you will find all the images required from aws, gcp, azure 3 majour cloud providers
+ if you go to public/images you will find all the images required from aws, gcp, azure 3 major cloud providers
 
-refrences:
+# Refrences
 
 I used this repo as a refrence [here](https://github.com/codewithvk/React-simple-portfolio).
 
